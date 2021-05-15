@@ -9,7 +9,7 @@
 <h4 align="center"> 
 	🚧  🚀 Em construção...  🚧
 </h4>
-<p align="center">Projeto desenvolvido com o intuito de calcular o número de visualizações, com os dados inseridos pelo usúario</p>
+<p align="center">Projeto desenvolvido com o intuito de calcular o número de visualizações, com os dados inseridos pelo usúario.</p>
 
 ### Pré-requisitos
 
@@ -19,14 +19,14 @@ Para Facilitar, o acesso ao programa, programei com um compilador online, e isso
 
 
 ### Clone este link
-$ git clone <https://onlinegdb.com/AbU1_KJqG>
+$ git clone <https://onlinegdb.com/AWK4QszYV>
 
-## Para executar bastar clicar no botão "run" ou o atalho "F9".
+#### Para executar bastar clicar no botão "run" ou o atalho "F9".
 
 # 🛠 Tecnologias
 
 A ferramenta que foi usada na construção do projeto:
-- [Java](https://www.onlinegdb.com/online_c_compiler)
+- [Java online](https://www.onlinegdb.com/online_c_compiler)
 
 # Hi, I'm Vinícius! :D
 
